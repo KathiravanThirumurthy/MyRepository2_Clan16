@@ -1,1 +1,2 @@
-Hello Stage
+Hello Stage.
+This is the second commit
